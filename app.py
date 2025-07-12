@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-QWEN_API_KEY = "YOUR_API_KEY_HERE"
+QWEN_API_KEY = "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"
 QWEN_API_URL = "https://api.openrouter.ai/v1/chat/completions"
 
 @app.route("/")
