@@ -6,4 +6,4 @@ services:
     startCommand: python app.py
     envVars:
       - key: QWEN_API_KEY
-        value: your_qwen_api_key_here
+        value: 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
